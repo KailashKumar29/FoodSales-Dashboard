@@ -20,4 +20,4 @@ An Excel dashboard to analyze and visualize sales performance across categories,
 ![Dashboard Screenshot](dashboard-view.png)
 
 ## 👤 Author
-Created by [Kailash Kumar]
+Created by Kailash Kumar
